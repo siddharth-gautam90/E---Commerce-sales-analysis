@@ -53,5 +53,3 @@ This project answers 12 business questions:
 The project demonstrates how Python-based data analytics can be used to identify
  business trends, evaluate profitability,
  and generate actionable insights from e-commerce transaction data.
-
-GitHub: [Your GitHub Profile]
